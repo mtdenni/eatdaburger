@@ -1,0 +1,18 @@
+body { 
+    background: #EA5E2A;
+}
+h1 {
+    text-align: center;
+}
+
+#burger-img {
+    width: 20%; 
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style: none;
+}
